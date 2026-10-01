@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://metropoliscaliph.github.io/sitemap.xml
